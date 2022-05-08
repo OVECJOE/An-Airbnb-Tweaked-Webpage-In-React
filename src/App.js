@@ -1,6 +1,7 @@
 import Navbar from './components/Navbar';
 import HeroCard from './components/HeroCard';
 import Card from './components/Card';
+import data from './data/exp_card';
 import './App.css';
 
 function App() {
@@ -12,54 +13,17 @@ function App() {
       <main>
         <HeroCard photos={hero_images} />
         <div className="experiences">
-          <Card
-            img="img_7.webp"
-            rating="5.0"
-            rating_score={6}
-            topic="Life Lessons with Katie Zaferes"
-            price={136}
-            country="Malaysia"
-          />
-          <Card
-            img="img_8.jpg"
-            rating="5.0"
-            rating_score={6}
-            topic="Life Lessons with Katie Zaferes"
-            price={136}
-            country="UK"
-          />
-          <Card
-            img="img_9.jpg"
-            rating="5.0"
-            rating_score={6}
-            topic="Life Lessons with Katie Zaferes"
-            price={136}
-            country="Canada"
-          />
-          <Card
-            img="img_10.jpg"
-            rating="5.0"
-            rating_score={6}
-            topic="Life Lessons with Katie Zaferes"
-            price={136}
-            country="Ghana"
-          />
-          <Card
-            img="img_11.jpg"
-            rating="3.6"
-            rating_score={6}
-            topic="Fruitful Labour"
-            price={100}
-            country="UK"
-          />
-          <Card
-            img="img_12.jpeg"
-            rating="4.8"
-            rating_score={20}
-            topic="Lessons from my mother"
-            price={178}
-            country="China"
-          />
+          {data.map((exp_card) => {
+            return <Card 
+              key={exp_card.id}
+              topic={exp_card.topic}
+              img={exp_card.img}
+              rating={exp_card.rating}
+              rating_score={exp_card.rating_score}
+              price={exp_card.price}
+              country={exp_card.country}
+            />
+          })}
         </div>
       </main>
     </div>
