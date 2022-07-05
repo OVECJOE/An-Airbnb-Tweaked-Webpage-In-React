@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/An-Airbnb-Tweaked-Webpage-In-React/static/css/main.46e3aafe.css",
+    "main.js": "/An-Airbnb-Tweaked-Webpage-In-React/static/js/main.1fb709b8.js",
+    "static/js/787.9239aff2.chunk.js": "/An-Airbnb-Tweaked-Webpage-In-React/static/js/787.9239aff2.chunk.js",
+    "static/media/img_4.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_4.bc1636cd525625e78f48.jpg",
+    "static/media/img_6.webp": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_6.8253b37a93ba3c234eb8.webp",
+    "static/media/img_7.webp": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_7.6ea08ce8b89a5da51752.webp",
+    "static/media/img_11.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_11.55f5d738befc8942decc.jpg",
+    "static/media/img_14.webp": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_14.aa7acc35a23c310b510c.webp",
+    "static/media/img_9.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_9.fea411ecf75adff667ab.jpg",
+    "static/media/img_15.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_15.9a2a6782aae2d4077598.jpg",
+    "static/media/img_10.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_10.3362f8105d28936a97ec.jpg",
+    "static/media/img_13.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_13.597c5747e7c0f1a1cecb.jpg",
+    "static/media/img_1.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_1.987133b0f1cb008daf78.jpg",
+    "static/media/img_2.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_2.f932d6e2323e96c98eb1.jpg",
+    "static/media/img_3.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_3.d9a1d126c7e0f3255cc8.jpg",
+    "static/media/img_8.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_8.6006cfdad925f74c974f.jpg",
+    "static/media/img_12.jpeg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_12.5f6740bb952dda23c6ed.jpeg",
+    "static/media/airbnb_logo.png": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/airbnb_logo.e8c61a2b7a3964ee2779.png",
+    "static/media/img_5.jpg": "/An-Airbnb-Tweaked-Webpage-In-React/static/media/img_5.dcfd5b05046f00bc34e6.jpg",
+    "index.html": "/An-Airbnb-Tweaked-Webpage-In-React/index.html",
+    "main.46e3aafe.css.map": "/An-Airbnb-Tweaked-Webpage-In-React/static/css/main.46e3aafe.css.map",
+    "main.1fb709b8.js.map": "/An-Airbnb-Tweaked-Webpage-In-React/static/js/main.1fb709b8.js.map",
+    "787.9239aff2.chunk.js.map": "/An-Airbnb-Tweaked-Webpage-In-React/static/js/787.9239aff2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e3aafe.css",
+    "static/js/main.1fb709b8.js"
+  ]
+}
